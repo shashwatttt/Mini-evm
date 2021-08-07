@@ -5,7 +5,8 @@
 
 **_3) Shows appropriate output for the win and draw situations_**
 
-**DEMO**
+
+**DEMO:-**
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/88492742/128603994-f24d2353-b82f-48a6-a587-cc7376c571e1.png)
 
